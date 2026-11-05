@@ -53,9 +53,19 @@ Development follows small, approved vertical slices. A slice includes the requir
 
 ### Phase 4 — Visual Direction
 
-**Status:** Not started
+**Status:** Complete — approved by owner on 2026-11-05
 
-**Goal:** Review user-provided references and propose an approved visual direction. No visual style is predetermined by this plan.
+**Goal:** Research and propose an approved pixel-art visual direction, UI/UX specification, asset approach, and design system before implementation.
+
+**Draft deliverables:**
+
+- `DESIGN_RESEARCH.md` — researched references, licensing notes, and asset guidance.
+- `DESIGN_DIRECTION.md` — three pixel-art directions with a recommended Systems Console approach.
+- `UI_UX_SPECIFICATION.md` — section, navigation, responsive, interaction, and accessibility specifications.
+- `DESIGN_SYSTEM.md` — proposed tokens, components, pixel rules, and layout system.
+- `ASSET_CATALOG.md` — researched asset candidates; no assets downloaded or approved.
+
+**Outcome:** The approved Phase 4 baseline is the dark-only Systems Console direction, using Pixelify Sans for display headings and Inter for body text, CSS-first visuals, optional CC0 asset fallback, no avatar/mascot, no sound effects, and no required light mode. No visual assets were downloaded or selected.
 
 ### Phase 5 — Incremental Feature Delivery
 
@@ -76,6 +86,7 @@ Development follows small, approved vertical slices. A slice includes the requir
 | Phase 1 documentation and Git initialization | Approved and completed | Approved by user on 2026-11-05 |
 | Personal-information gathering | Documented | Verified research and owner confirmations are recorded in `PERSONAL_INFORMATION.md`; the LinkedIn access limitation remains documented. |
 | Phase 3 content plan | Approved and complete | Owner approved `CONTENT_PLAN.md` on 2026-11-05. |
+| Phase 4 design planning | Approved and complete | Dark-only Systems Console baseline approved on 2026-11-05; no assets or implementation have been added. |
 | Visual direction | Pending | Must be based on future user-provided references |
 | Website implementation | Pending | Requires a feature plan and explicit approval |
 
